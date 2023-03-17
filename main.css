@@ -1,0 +1,23 @@
+body{
+    background-image: url(image.jpeg );
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 50%;
+}
+#ab{
+    background-color: red;
+    margin: 25%;
+    align-items: center;
+    width: 50%;
+    height: 50px;
+    color:blue;
+    border : 5px solid gray;
+    border-radius: 20px;
+    font-size: 25px;
+}
+#ab:hover{
+    background-color: yellow;
+    width: 65%;
+    height: 75px;
+    cursor: pointer;
+}
